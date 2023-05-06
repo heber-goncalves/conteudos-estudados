@@ -65,6 +65,7 @@ a:hover{
     border-style: solid;
     border-width: 2px;
     border-color: #00DCEA;
+    transition-duration: .5s;
 }
 
 a:active{
